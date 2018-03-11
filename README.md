@@ -1,5 +1,4 @@
-
-[logo]: https://www.paperspace.com/images/logos/fastai.png ("fast.ai logo")
+[fast.ai logo](https://www.paperspace.com/images/logos/fastai.png "fast.ai logo")
 
 ### fast.ai works
 
