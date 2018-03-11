@@ -1,3 +1,6 @@
+
+[logo]: https://www.paperspace.com/images/logos/fastai.png
+
 ### fast.ai works
 
  ## About fast.ai
